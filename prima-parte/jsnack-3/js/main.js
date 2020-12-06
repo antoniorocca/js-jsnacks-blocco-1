@@ -20,8 +20,3 @@ console.log("Il perimetro del triangolo è: " + perimetro.toFixed(0));
 var area = ((baseTriangolo * altezzaTriangolo) /2);
 
 console.log("L'area del triangolo è: " + area);
-
-
-
-
-
